@@ -31,8 +31,3 @@ Platforms
 ![Static Badge](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Figma-ff00d9?style=for-the-badge&logo=figma&logoColor=white)
 <br>
-
-[![poppinpigeon's github stats](https://github-readme-stats.vercel.app/api?username=poppinpigeon&show_icons=true)](https://github-readme-stats.vercel.app/api?username=poppinpigeon)
-
-<!--Markdown Links & Images-->
-<a target="_blank" href="https://icons8.com/icon/2572/java">Java</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
