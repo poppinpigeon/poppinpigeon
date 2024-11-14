@@ -1,4 +1,7 @@
-### Hello! I'm a Computer Science major at the University of Wisconsin-Madison aspiring to become an entry-level frontend web developer.
+### Hello! 
+<br>
+### I'm a Computer Science major at the University of Wisconsin-Madison.
+### Aspiring to become an entry-level frontend web developer!
 
 <!--
 **poppinpigeon/poppinpigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
